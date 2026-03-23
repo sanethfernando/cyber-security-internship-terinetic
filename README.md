@@ -23,10 +23,9 @@ This repository contains the practical assessment submission for the Cyber Secur
 
 ## Repository Structure
 
-📄 README.md - This file
-📁 report/ - Full security report in PDF format
-📁 screenshots/ - All evidence screenshots from testing
-
+README.md - This file
+report/ - Full security report in PDF format
+screenshots/ - All evidence screenshots from testing
 
 ## Setup Instructions
 
