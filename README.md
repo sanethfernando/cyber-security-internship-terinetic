@@ -23,29 +23,9 @@ This repository contains the practical assessment submission for the Cyber Secur
 
 ## Repository Structure
 
-cyber-security-internship-Treinetic
-│
-├── README.md
-├── report/
-│   └── Cyber_Security_Internship_Treinetic_Saneth_Fernando
-└── screenshots/
-    ├── screenshot1-normal-input.png
-    ├── screenshot2-sql-error.png
-    ├── screenshot3-burp-intercept.png
-    ├── screenshot4-all-users-dumped.png
-    ├── screenshot5-database-info.png
-    ├── screenshot6-xss-normal.png
-    ├── screenshot7-xss-popup.png
-    ├── screenshot8-xss-burp.png
-    ├── screenshot9-idor-id1.png
-    ├── screenshot10-idor-id2.png
-    ├── screenshot11-idor-id3.png
-    ├── screenshot12-failed-login.png
-    ├── screenshot13-burp-login.png
-    ├── screenshot14-successful-login.png
-    ├── screenshot15-missing-headers.png
-    ├── screenshot16-phpinfo.png
-    └── screenshot17-cookie-settings.png
+📄 README.md - This file
+📁 report/ - Full security report in PDF format
+📁 screenshots/ - All evidence screenshots from testing
 
 
 ## Setup Instructions
