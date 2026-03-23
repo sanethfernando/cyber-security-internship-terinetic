@@ -1,6 +1,3 @@
-# cyber-security-internship-terinetic
-Cyber Security Internship Practical Assessment - Web Application Vulnerability Testing
-
 # Cyber Security Internship Treinetic
 
 Prepared by: W. Saneth Fernando  
